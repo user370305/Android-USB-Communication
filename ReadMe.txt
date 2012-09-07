@@ -6,5 +6,7 @@ Android application to communicate with host machine over USB.
 
 > adb forward tcp:38300 tcp:38300 // In your case port number may be different
 
-
 Changes after rakesh's push...
+
+new changes.....
+
