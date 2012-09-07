@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, USBCommActivity!</string>
+    <string name="app_name">USBComm</string>
+    <string name="starttext">To start connection press button:</string>
+    <string name="startbutton">Start Connection</string>
+</resources>
